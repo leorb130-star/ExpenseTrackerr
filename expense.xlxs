@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>ExpenseTracker</title>
+</head>
+<body>
+  <h1>ExpenseTracker</h1>
+  <h2>รายรับ</h2>
+  <ul>
+    <li>เงินเดือน 15000 บาท</li>
+    <li>รายได้เสริม 2000 บาท</li>
+    <li>ขายสินค้า 1000 บาท</li>
+  </ul>
+  <h2>รายจ่าย</h2>
+  <ul>
+    <li>ค่าอาหาร 1500 บาท</li>
+    <li>ค่าเดินทาง 800 บาท</li>
+    <li>ค่าอินเทอร์เน็ต 500 บาท</li>
+  </ul>
+</body>
+</html>
